@@ -8,4 +8,4 @@
 
 ## About
 
-This project uses useState to keep track of the menu categories and menu items. The categories bar is dynamic and will update based on the data that is passed in.
+This project uses useState() to keep track of the menu categories and menu items. The categories bar is dynamic and will update based on the data that is passed in.
