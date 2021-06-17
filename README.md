@@ -1,6 +1,10 @@
 # React project: Diner Menu
 
-## Get started
+## See it in action
+
+This project is hosted via Netlify at: [https://devincloudkelly-react-dinermenu.netlify.app/](https://devincloudkelly-react-dinermenu.netlify.app/)
+
+## Use locally
 
 - Clone this project to your local repo
 - CD into the project
